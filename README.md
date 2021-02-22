@@ -3,13 +3,10 @@
 
 BasketDAO is a IFO Platform and is creating the first toekn set of assets on bsc. (DeFi ETF's)
 
-## Addresses
+## Governance Token
 
-Token Creator:
-[](https://bscscan.com/address/)
-
-BIFI Governance Token:
-[]()
+BSKT Governance Token:
+[0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3](https://bscscan.com/token/0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3)
 
 ### Governance Pools
 
@@ -29,11 +26,11 @@ Pool 3: Pancake LP (BSKT-VAI) — 100K $BSKT
 
 To handle the team time-locks we are using the audited and battle tested OpenZeppelin TokenTimelock contract. All the contracts have their source code verified.
 
-Timelock 1 - Unlocks 2021-12-03 16:00:00 (1602000000)
-[0xeDBf7a30453cf9A63Cca4353b38Ae60AD4E27Bac](https://bscscan.com/address/0xeDBf7a30453cf9A63Cca4353b38Ae60AD4E27Bac)
+Timelock 1 - Unlocks 2021-12-03 16:00:00 (1615564833)
+[0x74c7cC65f275562CB5274A3A356240e52F900102](https://bscscan.com/address/0x74c7cC65f275562CB5274A3A356240e52F900102)
 
-Timelock 2 - Unlocks 2021-01-06 16:00:00 (1609948800)
-[0x0dc06716bc1efdb5affd1308302fd45dbc31d09a](https://bscscan.com/address/0x0dc06716bc1efdb5affd1308302fd45dbc31d09a)
+Timelock 2 - Unlocks 2021-12-06 16:00:00 (1623510033)
+[0xF2f2E1c11601Ff0671A3Dc635845228eb74208c3](https://bscscan.com/address/0xF2f2E1c11601Ff0671A3Dc635845228eb74208c3)
 
 
 
