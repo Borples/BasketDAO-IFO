@@ -69,7 +69,7 @@ class Store {
           tokens: [
             {
               id: 'wbnb',
-              address: '0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888',
+              address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
               symbol: 'wbnb',
               abi: config.erc20ABI,
               rewardsToken: '0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3',

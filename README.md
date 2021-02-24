@@ -13,7 +13,7 @@ BSKT Governance Token:
 The governance pools are using the same contracts as the first YearnRewards governance pool. We are strong believers on using battle tested code whenever possible. While our community needs to innovate on building new yield maximizing strategies. We don’t need to innovate on things that already worked. We also wanted to make it as easy as possible to check that the source code is correct.
 
 Pool 1: wBNB — 40K $BSKT
-[0x55bb4ff561ce7d328ed10af322a14dc9c972f653](https://bscscan.com/address/0x55bb4ff561ce7d328ed10af322a14dc9c972f653)
+[0x74019CbBD895D9f2d1A1E2C1Cfe02C558330e222](https://bscscan.com/address/0x74019CbBD895D9f2d1A1E2C1Cfe02C558330e222)
 
 Pool 2: Pancake LP (BSKT-BUSD) — 100K $BSKT
 [0x1263f0bffe2d740ea3279416d0e84943b66958eb](https://bscscan.com/address/0x1263f0bffe2d740ea3279416d0e84943b66958eb)
