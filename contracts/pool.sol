@@ -598,7 +598,7 @@ pragma solidity ^0.5.0;
 
 
 contract RewardPool is LPTokenWrapper, IRewardDistributionRecipient {
-    IERC20 public yfi = IERC20(0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3);
+    IERC20 public yfi = IERC20(0x3454cb7815c9d236543e76d4cc2476812ca0bd5c);
     uint256 public constant DURATION = 20 days;
 
     uint256 public periodFinish = 0;

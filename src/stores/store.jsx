@@ -89,12 +89,12 @@ class Store {
           id: 'bskt',
           name: 'BSKT-BUSD',
           brief: 'PancakeSwap LP',
-          link: 'https://bscswap.info/pair/0x1EbF0eE99971c6269062C3b480e8e23B7A74756B',
+          link: 'https://bscscan.com/token/0x4f92656db24ef49d1411d42d99137b644a38edf3',
           depositsEnabled: true,
           tokens: [
             {
               id: 'bskt',
-              address: '0x1EbF0eE99971c6269062C3b480e8e23B7A74756B',
+              address: '0x4f92656db24ef49d1411d42d99137b644a38edf3',
               symbol: 'bskt-busd',
               abi: config.erc20ABI,
               rewardsToken: '0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3',
@@ -114,12 +114,12 @@ class Store {
           id: 'bskt',
           name: 'BSKT-VAI',
           brief: 'PancakeSwap LP',
-          link: 'https://bscswap.info/pair/0x7270Fd3Bfe698Db8bE63B9e63c28fA0bCb3AED8C',
+          link: 'https://bscscan.com/address/0x3454cb7815c9d236543e76d4cc2476812ca0bd5c',
           depositsEnabled: true,
           tokens: [
             {
               id: 'bskt',
-              address: '0x7270Fd3Bfe698Db8bE63B9e63c28fA0bCb3AED8C',
+              address: '0x3454cb7815c9d236543e76d4cc2476812ca0bd5c',
               symbol: 'bnb-sparta',
               abi: config.erc20ABI,
               rewardsToken: '0xeFD82b6D92BC5845edFF143Ca5a52C8a765401c3',
